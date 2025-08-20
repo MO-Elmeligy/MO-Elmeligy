@@ -17,7 +17,7 @@
 
 ## 🌐 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/mohamed-elmeligy" target="blank">
+<a href="https://www.linkedin.com/in/mohamed-elmeligy-574b06260/" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40"/>
 </a>
 <a href="https://github.com/MO-Elmeligy" target="blank">
