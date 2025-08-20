@@ -10,7 +10,7 @@
 - 🔭 I’m working on **Movie App, Food App, IoT Smart Devices**
 - 👯 I’m looking to collaborate on **Mobile Apps & IoT Projects**
 - 💬 Ask me about **Flutter | Firebase | API Integration | Git | BLoC**
-- 📫 Reach me at **mohamedelmeligy.dev@gmail.com**
+- 📫 Reach me at **wasdmagneto17@gmail.com**
 - ⚡ Fun fact: *I mix Flutter with Electronics to build smart stuff 💡*
 
 ---
