@@ -24,7 +24,7 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="40" width="40"/>
 </a>
 <a href="https://wa.me/201271592500" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/5905d6e246960d71a80695123d2cc79b9b009139/icons/WhatsApp.svg" alt="WhatsApp" height="40" width="40"/>
+  <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=flat-square" alt="WhatsApp" height="40" width="40"/>
 </a>
 </p>
 
